@@ -1,0 +1,7 @@
+---
+name: Guacamole
+category: Interactive Apps
+subcategory: Remote Desktop
+role: batch_connect
+description: |
+  This app will create a Windows desktop with RDP access

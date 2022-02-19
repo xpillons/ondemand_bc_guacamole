@@ -1,0 +1,9 @@
+#!/usr/bin/env bash
+
+cat <<EOF >"${GUACAMOLE_SPOOL_DIR}/commands/${GUACAMOLE_SESSION_ID}.json"
+{
+    "command": "create",
+    "queue": "winviz",
+    "max_walltime": "00:10:00"
+}
+EOF
