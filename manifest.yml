@@ -5,4 +5,4 @@ subcategory: Desktops
 role: batch_connect
 description: |
   This app will create a Windows desktop with RDP access
-icon: fa-brands://fa-windows
+icon: fa://windows
