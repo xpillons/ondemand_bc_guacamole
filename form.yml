@@ -1,7 +1,7 @@
 ---
 cluster: "guacamole"
 form:
-  - hours
+#  - hours
 attributes:
 #   hours:
 #     widget: "number_field"
