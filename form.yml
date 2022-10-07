@@ -1,8 +1,8 @@
 ---
 cluster: "guacamole"
-form:
+#form:
 #  - hours
-attributes:
+#attributes:
 #   hours:
 #     widget: "number_field"
 #     label: "Maximum duration of your remote session"
